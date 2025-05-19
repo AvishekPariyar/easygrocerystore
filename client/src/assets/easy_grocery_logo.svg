@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="50" viewBox="0 0 200 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Shopping cart icon -->
+  <g transform="translate(10, 10) scale(0.8)">
+    <path d="M8 20C5.79086 20 4 21.7909 4 24C4 26.2091 5.79086 28 8 28C10.2091 28 12 26.2091 12 24C12 21.7909 10.2091 20 8 20ZM8 20C5.79086 20 4 21.7909 4 24C4 26.2091 5.79086 28 8 28C10.2091 28 12 26.2091 12 24C12 21.7909 10.2091 20 8 20Z" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 20C17.7909 20 16 21.7909 16 24C16 26.2091 17.7909 28 20 28C22.2091 28 24 26.2091 24 24C24 21.7909 22.2091 20 20 20ZM20 20C17.7909 20 16 21.7909 16 24C16 26.2091 17.7909 28 20 28C22.2091 28 24 26.2091 24 24C24 21.7909 22.2091 20 20 20Z" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20 20H8V4H4" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M8 8H22.0801L24.8001 16H8" stroke="#22C55E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  
+  <!-- Leaf icon -->
+  <g transform="translate(35, 5) scale(0.5)">
+    <path d="M12 2.25195C6.48 2.25195 2 6.73195 2 12.252C2 17.772 6.48 22.252 12 22.252C17.52 22.252 22 17.772 22 12.252C22 6.73195 17.52 2.25195 12 2.25195ZM12 20.252C7.59 20.252 4 16.662 4 12.252C4 7.84195 7.59 4.25195 12 4.25195C16.41 4.25195 20 7.84195 20 12.252C20 16.662 16.41 20.252 12 20.252Z" fill="#22C55E"/>
+    <path d="M13 7.25195H11V13.252L16.24 16.372L17.24 14.752L13 12.252V7.25195Z" fill="#22C55E"/>
+  </g>
+  
+  <!-- Text: Easy Grocery Store -->
+  <text x="60" y="25" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="#22C55E">Easy Grocery</text>
+  <text x="60" y="40" font-family="Arial, sans-serif" font-size="14" fill="#22C55E">Store</text>
+</svg>

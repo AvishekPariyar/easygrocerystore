@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* ✅ Correct Tailwind setup */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom global styles */
+
+* {
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Optional: Use custom CSS variables if needed */
+
+:root {
+  --color-primary: #4fbf8b;
+  --color-primary-dull: #44ae7c;
+}
